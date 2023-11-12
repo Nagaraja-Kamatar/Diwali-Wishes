@@ -1,8 +1,11 @@
+@media (min-width: 319px) and (max-width: 1600PX){
 body{
     background: url('bg.jpg');
     margin: 0;
     padding: 0;
     font-family: 'Irish Grover', cursive;
+    background-repeat: no-repeat;
+    
 }
 
 .circle{
@@ -151,7 +154,7 @@ h1 span{
       margin: 0 25%;
       width: 50%;
       height: 20%;
-      background-color: orangered;
+      background-color: rgb(255, 170, 139);
       border-radius: 15px;
       opacity: 0.8;
       font-family: 'Dancing Script', cursive;
@@ -160,10 +163,13 @@ h1 span{
   footer .content{
       margin: 0px 25px;
       text-align: center;
-      font-size: 18px;
+      font-size: 20px;
+      color: black;
   }
 
-  footer .H{
+  footer .Name{
       text-align: right;
       margin-right: 5px;
+      color: black;
   }
+
