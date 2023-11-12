@@ -9,7 +9,7 @@ body{
 }
 
 .circle{
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     height: 350px;
