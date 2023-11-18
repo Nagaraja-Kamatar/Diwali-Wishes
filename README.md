@@ -1,1 +1,1 @@
-# man
+Diwali Wishes in this page
